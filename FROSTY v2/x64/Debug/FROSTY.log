@@ -1,0 +1,60 @@
+﻿E:\Programs\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Das Output-Verzeichnis endet nicht mit einem nachstehenden Schrägstrich. Der Schrägstrich wird in dieser Buildinstanz hinzugefügt, da er für die ordnungsgemäße Auswertung des Output-Verzeichnisses erforderlich ist.
+  imguicolorpicker.cpp
+e:\windows\desktop\cheating\yung.life\frosty v2\ImGui\imgui.h(14): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "float.h": No such file or directory
+  Parser.cpp
+E:\Programs\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.12.25827\include\crtdefs.h(10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "corecrt.h": No such file or directory
+  recvproxy.cpp
+E:\Programs\Windows Kits\Include\um\winnt.h(31): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "ctype.h": No such file or directory
+  Autowall.cpp
+E:\Programs\Windows Kits\Include\um\winnt.h(31): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "ctype.h": No such file or directory
+  Chams.cpp
+E:\Programs\Windows Kits\Include\um\winnt.h(31): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "ctype.h": No such file or directory
+  Configuration.cpp
+E:\Programs\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.12.25827\include\crtdefs.h(10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "corecrt.h": No such file or directory
+  DLLMain.cpp
+E:\Programs\Windows Kits\Include\um\winnt.h(31): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "ctype.h": No such file or directory
+  EnginePrediction.cpp
+E:\Programs\Windows Kits\Include\um\winnt.h(31): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "ctype.h": No such file or directory
+  ESP.cpp
+E:\Programs\Windows Kits\Include\um\winnt.h(31): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "ctype.h": No such file or directory
+  Global.cpp
+E:\Programs\Windows Kits\Include\um\winnt.h(31): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "ctype.h": No such file or directory
+  GrenadePrediction.cpp
+E:\Programs\Windows Kits\Include\um\winnt.h(31): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "ctype.h": No such file or directory
+  Hooks.cpp
+E:\Programs\Windows Kits\Include\um\winnt.h(31): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "ctype.h": No such file or directory
+  imgui_impl_dx9.cpp
+e:\windows\desktop\cheating\yung.life\frosty v2\imgui\examples\directx9_example\../../imgui.h(14): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "float.h": No such file or directory
+  imgui.cpp
+e:\windows\desktop\cheating\yung.life\frosty v2\imgui\imgui.h(14): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "float.h": No such file or directory
+  imgui_draw.cpp
+e:\windows\desktop\cheating\yung.life\frosty v2\imgui\imgui.h(14): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "float.h": No such file or directory
+  Interfaces.cpp
+E:\Programs\Windows Kits\Include\um\winnt.h(31): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "ctype.h": No such file or directory
+  LagComp.cpp
+E:\Programs\Windows Kits\Include\um\winnt.h(31): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "ctype.h": No such file or directory
+  LegitBot.cpp
+E:\Programs\Windows Kits\Include\um\winnt.h(31): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "ctype.h": No such file or directory
+  MathFunctions.cpp
+E:\Programs\Windows Kits\Include\um\winnt.h(31): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "ctype.h": No such file or directory
+  memesets.cpp
+E:\Programs\Windows Kits\Include\um\winnt.h(31): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "ctype.h": No such file or directory
+  Code wird generiert...
+  Kompilieren...
+  Misc.cpp
+E:\Programs\Windows Kits\Include\um\winnt.h(31): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "ctype.h": No such file or directory
+  NetVarManager.cpp
+E:\Programs\Windows Kits\Include\um\winnt.h(31): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "ctype.h": No such file or directory
+  RageBot.cpp
+E:\Programs\Windows Kits\Include\um\winnt.h(31): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "ctype.h": No such file or directory
+  Renderer.cpp
+E:\Programs\Windows Kits\Include\um\winnt.h(31): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "ctype.h": No such file or directory
+  Render.cpp
+E:\Programs\Windows Kits\Include\um\winnt.h(31): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "ctype.h": No such file or directory
+  SpoofedConvar.cpp
+E:\Programs\Windows Kits\Include\um\winnt.h(31): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "ctype.h": No such file or directory
+  MiscFunctions.cpp
+E:\Programs\Windows Kits\Include\um\winnt.h(31): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "ctype.h": No such file or directory
+  Utilities.cpp
+E:\Programs\Windows Kits\Include\um\winnt.h(31): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "ctype.h": No such file or directory
+  Code wird generiert...

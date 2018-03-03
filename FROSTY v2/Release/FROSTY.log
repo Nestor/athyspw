@@ -1,0 +1,142 @@
+﻿E:\Programs\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Das Output-Verzeichnis endet nicht mit einem nachstehenden Schrägstrich. Der Schrägstrich wird in dieser Buildinstanz hinzugefügt, da er für die ordnungsgemäße Auswertung des Output-Verzeichnisses erforderlich ist.
+  imguicolorpicker.cpp
+  Parser.cpp
+  recvproxy.cpp
+  Chams.cpp
+  Configuration.cpp
+  DLLMain.cpp
+  EnginePrediction.cpp
+  ESP.cpp
+  Global.cpp
+  GrenadePrediction.cpp
+  Hooks.cpp
+E:\Programs\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.12.25827\include\algorithm(1007): warning C4244: "=": Konvertierung von "wint_t" in "char", möglicher Datenverlust
+  E:\Programs\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.12.25827\include\algorithm(1020): note: Siehe Verweis auf die Instanziierung der gerade kompilierten Funktions-Vorlage "_OutIt std::_Transform_no_deprecate<_InIt,_OutIt,wint_t(__cdecl *)(wint_t)>(_InIt,_InIt,_OutIt,_Fn)".
+          with
+          [
+              _OutIt=std::_String_iterator<std::_String_val<std::_Simple_types<char>>>,
+              _InIt=std::_String_iterator<std::_String_val<std::_Simple_types<char>>>,
+              _Fn=wint_t (__cdecl *)(wint_t)
+          ]
+  e:\windows\desktop\athys\private vers\frosty v2\IDirect3DDevice9.h(141): note: Siehe Verweis auf die Instanziierung der gerade kompilierten Funktions-Vorlage "_OutIt std::transform<std::_String_iterator<std::_String_val<std::_Simple_types<_Ty>>>,std::_String_iterator<std::_String_val<std::_Simple_types<_Ty>>>,wint_t(__cdecl *)(wint_t)>(_InIt,_InIt,_OutIt,_Fn)".
+          with
+          [
+              _OutIt=std::_String_iterator<std::_String_val<std::_Simple_types<char>>>,
+              _Ty=char,
+              _InIt=std::_String_iterator<std::_String_val<std::_Simple_types<char>>>,
+              _Fn=wint_t (__cdecl *)(wint_t)
+          ]
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(667): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<3,94>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(630): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<9,93>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(626): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<10,92>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(622): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<10,91>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(618): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<6,90>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(614): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<5,89>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(610): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<10,88>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(602): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<14,87>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(598): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<15,86>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(594): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<5,85>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(590): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<8,84>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(586): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<8,83>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(582): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<10,82>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(578): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<8,81>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(574): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<9,80>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(570): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<10,79>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(566): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<7,78>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(562): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<7,77>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(558): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<6,76>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(526): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<7,75>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(524): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<13,74>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(494): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<6,73>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(492): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<15,72>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(487): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<5,71>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(485): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<6,70>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(484): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<5,69>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(482): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<4,68>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(480): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<7,67>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(478): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<7,66>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(476): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<6,65>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(454): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<6,64>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(445): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<11,63>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(444): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<6,62>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(443): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<6,61>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(441): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<10,60>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(440): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<4,59>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(433): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<5,58>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(431): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<4,57>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(429): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<7,56>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(427): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<7,55>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(425): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<6,54>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(403): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<13,53>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(402): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<3,52>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(397): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<6,51>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(393): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<10,50>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(390): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<13,49>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(383): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<15,48>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(382): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<8,47>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(381): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<8,46>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(380): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<12,45>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(379): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<6,44>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(378): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<4,43>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(377): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<8,42>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(374): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<8,41>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(371): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<3,40>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(367): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<5,39>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(365): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<4,38>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(363): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<7,37>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(361): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<7,36>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(359): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<6,35>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(348): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<2,34>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(346): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<18,33>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(345): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<13,32>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(344): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<7,31>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(339): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<5,30>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(337): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<4,29>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(335): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<7,28>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(333): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<7,27>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(331): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<6,26>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(318): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<14,25>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(317): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<7,24>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(316): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<7,23>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(309): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<10,22>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(308): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<10,21>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(307): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<6,20>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(306): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<9,19>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(305): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<3,18>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(297): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<10,17>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(296): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<10,16>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(295): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<6,15>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(294): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<9,14>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(293): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<3,13>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(284): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<10,12>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(283): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<10,11>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(282): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<6,10>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(281): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<9,9>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(280): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<3,8>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(273): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<13,7>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(271): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<7,6>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(269): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<5,5>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(267): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<4,4>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(265): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<7,3>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(263): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<7,2>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(261): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<6,1>", die kompiliert wird.
+  e:\windows\desktop\athys\private vers\frosty v2\Interface.h(220): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "XorCompileTime::XorString<14,0>", die kompiliert wird.
+  imgui_impl_dx9.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  Interfaces.cpp
+  LagComp.cpp
+  LegitBot.cpp
+  MathFunctions.cpp
+  memesets.cpp
+  Misc.cpp
+  Code wird generiert...
+  Kompilieren...
+  NetVarManager.cpp
+  Renderer.cpp
+  Render.cpp
+  SpoofedConvar.cpp
+  MiscFunctions.cpp
+  Utilities.cpp
+  Code wird generiert...
+  FROSTY.vcxproj -> E:\Windows\Desktop\Athys\Release\athys.dll
