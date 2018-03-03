@@ -1,4 +1,3 @@
-perfecthook
+perfecthook + changes
 
-shitty paste, someone got ratted or something and is passing out source so here it is
-
+shitty paste got cracked sold that shit made good money fuck yeah
